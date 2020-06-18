@@ -1,4 +1,4 @@
-# Phone_Keypad_Decipher
+# Phone_Keypad_Decoder
 ```
 -------------------------
 |       |  ABC  |  DEF  |
