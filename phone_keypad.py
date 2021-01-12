@@ -9,6 +9,7 @@ args = ' '.join(args.Numbers)
 
 string = args.replace(',','').replace('.','').replace(':','').replace('!','').split(' ')
 
+#keypad dictionary
 keypad = {
         '2':'ABC',
         '3':'DEF',
